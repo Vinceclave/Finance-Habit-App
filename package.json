@@ -1,0 +1,8 @@
+{
+  "private": true,
+  "workspaces": [
+    "services/*",
+    "mcp",
+    "ai-agent"
+  ]
+}
